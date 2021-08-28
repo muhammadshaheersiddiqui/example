@@ -1,0 +1,54 @@
+div{
+    background-color: bisque;
+    background-image: url(https://i.pcmag.com/imagery/lineups/05OQSA4rlL7876eIsOPWHNV-1.1569492718.fit_lim.size_768x432.jpg);
+    font-size: large;
+    font-weight: bolder;
+    font: italic;
+    font-style: oblique;
+    color: black;
+
+
+}
+
+#table{
+    background: black;
+    color: whitesmoke;
+
+    
+}
+
+#steam{
+    font-size: large;
+    font-weight: bolder;
+    font: italic;
+    font-style: oblique;
+    color: black;
+
+}
+#tabal{
+    font-size: large;
+    font-weight: bolder;
+    font: italic;
+    font-style: oblique;
+    color: black;
+}
+
+#PARA{
+    font-size: large;
+    font-weight: bolder;
+    font: italic;
+    font-style: oblique;
+    color: black;
+
+}
+
+
+#myage{
+    background-color: coral;
+    font-size: large;
+    font-weight: bolder;
+    font: italic;
+    font-style: oblique;
+    color: black;
+    background-position: 400px;
+}
